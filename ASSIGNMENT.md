@@ -15,7 +15,7 @@ The rules of Texas Holdem and the various hand rankings  can be found at the lin
 (ignore all talk of incremental betting /passing/folding , we aren’t considering that):  
 
 https://www.partypoker.com/en/how -to-play/texas -holdem  
-https://www.fgbradleys.com/et_poker.asp  
+https://www.pokernews.com/poker-rules/texas-holdem.htm
 
 When determining the strength of each player’s hand, you will consider the two cards that 
 player was dealt, as well as the five cards present in the shared pool . The stronger hand will 
