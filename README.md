@@ -34,7 +34,7 @@ The program must:
 
 References provided to students for rules and hand rankings:
 - [PartyPoker: How to Play Texas Hold’em](https://www.partypoker.com/en/how-to-play/texas-holdem)  
-- [FG Bradley’s Poker Hand Rankings](https://www.fgbradleys.com/et_poker.asp)  
+- [PokerNews: Texas Hold’em Rules](https://www.pokernews.com/poker-rules/texas-holdem.htm)  
 
 ### Constraints
 - No third-party libraries (only standard language features).
